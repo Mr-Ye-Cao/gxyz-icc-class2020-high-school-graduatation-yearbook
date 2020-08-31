@@ -1,0 +1,26 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('./back.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@font-face {
+	font-family: 'lovelyFont';
+	src: url('./RussoOne-Regular.ttf');  
+}
+
+@font-face {
+	font-family: 'RomeoFont';
+	src: url('./Rowdies-Bold.ttf');  
+}
+
+.specialfont{
+	font-family: 'lovelyFont';
+}
+
+.romfont{
+	font-family: 'RomeoFont';
+}
