@@ -1,9 +1,5 @@
 # graduate
 
-This is a high school year-book project I made at the senior year at domain http://gxyzicc.great-site.net/
-And please don't hack it since I didn't base lots of my consideration on security when I made this website.
+During my high school senior year, I identified that Covid caused Chinese high school students difficulty making physical year book (due to physical contact constraint). So I bootstrapped this PaaS (Platform as a Service) full-stack web application that focus on Chinese International High School students to help them digitally create yearbooks by letting each students' portofolio on their own via personal account.
 
-Here is my username and password, so that you can view the whole thing without hacking it:
-
-Username: Peter
-Password: 123456
+A demo of the product: https://drive.google.com/file/d/1q_W9GCLxGO0xwpxneH0_l4XjJsH6wyCa/view
